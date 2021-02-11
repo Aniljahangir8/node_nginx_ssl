@@ -1,6 +1,6 @@
 # Node.js Deployment
 
-> Steps to deploy a Node.js app to Liunx using PM2, NGINX as a reverse proxy and an SSL from LetsEncrypt
+> Steps to deploy a Node.js app to Linux using PM2, NGINX as a reverse proxy and an SSL from LetsEncrypt
 
 ## 1. Install Node/NPM
 ```
